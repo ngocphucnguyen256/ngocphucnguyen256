@@ -1,10 +1,10 @@
-  Hi, I'm Nguyen Ngoc Phuc - Front-end Developer
+  <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Ngoc Phuc</span> - Web Developer</h1>
  
   <a href="https://ngocphucnguyen256.github.io/Portfolio/">My portfolio 👈</a>
 
   <br/>
 
-  🤖 MY TECHNOLOGIES:
+  🤖 MY TOOLS & TECHNOLOGIES:
   
   <div style="display:flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,6 +16,13 @@
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-045782?style=for-the-badge&logo=mysql&logoColor=white">
+
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+      <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+      <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
   </div>
   <br/>
 
