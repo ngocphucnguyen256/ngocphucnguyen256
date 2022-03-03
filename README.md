@@ -22,8 +22,15 @@
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
       <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
       <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </div>
   <br/>
+  
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphucnguyen256&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   📞 CONTACT ME:
   
@@ -31,3 +38,4 @@
   <a href=https://www.linkedin.com/in/ngocphucnguyen256/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedIn"> </a>
   <a href=https://www.facebook.com/ngocphucnguyen256/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
   
+
