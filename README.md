@@ -1,4 +1,4 @@
-  <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Ngoc Phuc</span> - Web Developer</h1>
+  <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Ngoc Phuc</span> - Junior Frontend Developer</h1>
  
   <a href="https://ngocphucnguyen256.github.io/Portfolio/">My portfolio 👈</a>
 
@@ -15,23 +15,23 @@
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+ 
+
+  </div>
+
+  <br/>
+  <div style="display:flex; flex-wrap: wrap;">
+       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-
-  </div>
-  <br/>
-  <div style="display:flex; flex-wrap: wrap;">
-     <img src="https://img.shields.io/badge/Bitbucket-blue.svg?style=for-the-badge&logo=Bitbucket&logoColor=white">
-     <img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github&logoColor=white">
-  </div>
-  <br/>
-  <div style="display:flex; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-045782?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
+    <br/>
+  <div style="display:flex; flex-wrap: wrap;">
+       <img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github&logoColor=white">
+     <img src="https://img.shields.io/badge/Bitbucket-blue.svg?style=for-the-badge&logo=Bitbucket&logoColor=white">
   </div>
   <br/>
   <div style="display:flex; flex-wrap: wrap;">
@@ -41,7 +41,7 @@
   <br/>
  
   <div style="display:flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/badge/NPM-%23E34F26.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
     <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
   </div>
@@ -56,6 +56,5 @@
   
   <a href="mailto:ngocphuc.nguyen256@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7F7F7?style=for-the-badge&logo=Gmail"> </a>
   <a href=https://www.linkedin.com/in/ngocphucnguyen256/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedIn"> </a>
-  <a href=https://www.facebook.com/ngocphucnguyen256/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
   
 
