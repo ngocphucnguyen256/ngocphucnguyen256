@@ -3,7 +3,8 @@
   <a href="https://phuc-nguyen.vercel.app/">My portfolio 👈</a>
 
   <br/>
-  
+  ![](https://komarev.com/ghpvc/?username=ngocphucnguyen256)
+  <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphucnguyen256&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   📞 CONTACT ME:
