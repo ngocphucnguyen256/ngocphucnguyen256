@@ -2,8 +2,6 @@
  
   <a href="https://phuc-nguyen.vercel.app/">My portfolio 👈</a>
 
-  <br/>
-  
   ![](https://hit.yhype.me/github/profile?user_id=69982260)
 
   ![](https://komarev.com/ghpvc/?username=ngocphucnguyen256&base=289&style=for-the-badge)
