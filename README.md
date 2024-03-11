@@ -1,4 +1,4 @@
-  <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Ngoc Phuc</span> - Junior Frontend Developer</h1>
+  <h1>Hi, I'm <span style="font-weight:bold;">Phuc (Paul)</span> - Front-End Software Engineer</h1>
  
   <a href="https://phuc-nguyen.vercel.app/">My portfolio 👈</a>
 
